@@ -1,6 +1,6 @@
 # Revised GRE_Arugement 终极提纲beta
-####author: waventropy
-##说明：
+#### author: waventropy
+## 说明：
 题目序号参照ETS网站顺序，网址为：<http://www.ets.org/gre/revised_general/prepare/analytical_writing/argument/pool>，访问时间是2012.7.9,20:22。
 参考了来自老G的《GRE  Argument终极提纲》以及《新GRE写作5.5》，《新老GRE题号对比argument》，一并致谢。有的地方注明了中文，考试的时候可以直接使用首字母代替。
 文章采用Markdown语法，利用ReText2.1.6和chrome中MADE MARKDOWN EDITOR插件的在Ubuntu12.04LTS和Windows XP平台下写成。
@@ -28,14 +28,14 @@
 如果不喜欢插件的话可以看这里，含Linux,windows,Mac平台下的markdown的使用。
 <http://www.appinn.com/markdown-tools/>。包含软件的使用。当然也可以使用网页版工具，在上面的网址中均有说明。
 
-##补记
+## 补记
 最近走向了新的方向，所以文章并没有完全写完，如果有兴趣的同学可以自己去看看怎么写完。
 源代码我也会放在网上了，大家自行修改。
 
 不管怎么，感谢那些陪着我的人，谢谢你们。
 
 
-##题库归类
+## 题库归类
 一个分级是一个分类，数字代表题号，可以使用ctrl+F搜索相关的题目
 
 前10仔细列出了提纲，后面的题目则同一个分级只写第一个，不同的部分用中文注出，方便大家对照学习。大家可以自己作为练手找找不同或者列列论点。
@@ -111,9 +111,9 @@
 *
 
 
-##题目详解
+## 题目详解
 # 第1类
-##1
+## 1
 Woven baskets characterized by a particular distinctive pattern have previously been found only in the immediate vicinity of the prehistoric village of Palea and therefore were believed to have been made only by the Palean people. Recently, however, archaeologists discovered such a "Palean" basket in Lithos, an ancient village across the Brim River from Palea. The Brim River is very deep and broad, and so the ancient Paleans could have crossed it only by boat, and no Palean boats have been found. Thus it follows that the so-called Palean baskets were not uniquely Palean.
 
 Write a response in which you discuss what specific evidence is needed to evaluate the argument and explain how the evidence would weaken or strengthen the argument.
@@ -135,8 +135,8 @@ Write a response in which you discuss what specific evidence is needed to evalua
 
 * Need evidenve to prove that the possibility that the Paleans may arrived in Lithos through other means like trade, or the baskets were carried to the Lithos by flood.
 
-#第2类
-##2
+# 第2类
+## 2
 The following appeared as part of a letter to the editor of a scientific journal.
 
 "A recent study of eighteen rhesus (恒河猴) monkeys provides clues as to the effects of birth order on an individual's levels of stimulation. The study showed that in stimulating situations (such as an encounter with an unfamiliar monkey), firstborn infant monkeys produce up to twice as much of the hormone (激素) cortisol (皮质素) , which primes the body for increased activity levels, as do their younger siblings. Firstborn humans also produce relatively high levels of cortisol in stimulating situations (such as the return of a parent after an absence). The study also found that during pregnancy, first-time mother monkeys had higher levels of cortisol than did those who had had several offspring."
@@ -158,8 +158,8 @@ Write a response in which you discuss one or more alternative explanations that 
 * also this is only a case study and 18  rhesus monkeys maybe special and can't represent the whole  rhesus monkeys.
 * Still if producing hormone cortisol is just a reaction to some extreme emotion like fear or anxiety and we cann't related it with birth order.
 
-#第3类
-##3
+# 第3类
+## 3
 The following appeared as a letter to the editor from a Central Plaza store owner.
 
 "Over the past two years, the number of shoppers in Central Plaza has been steadily decreasing while the popularity of skateboarding has increased dramatically. Many Central Plaza store owners believe that the decrease in their business is due to the number of skateboard users in the plaza. There has also been a dramatic increase in the amount of litter and vandalism throughout the plaza. Thus, we recommend that the city prohibit skateboarding in Central Plaza. If skateboarding is prohibited here, we predict that business in Central Plaza will return to its previously high levels."
@@ -184,7 +184,7 @@ Write a response in which you discuss what questions would need to be answered i
 * Q3：The survey was based only on data from Central Plaza store owners, thus could not be representative of all citizens. 
 * Q4: is there other possible means to regain the plaza’s prosperity? 
 
-##171
+## 171
 The following appeared as a letter to the editor from the owner of a skate shop in Central Plaza.
 
 "Two years ago the city voted to prohibit skateboarding in Central Plaza. They claimed that skateboard users were responsible for the litter and vandalism that were keeping other visitors from coming to the plaza. In the past two years, however, there has only been a small increase in the number of visitors to Central Plaza, and litter and vandalism are still problematic. Skateboarding is permitted in Monroe Park, however, and there is no problem with litter or vandalism there. In order to restore Central Plaza to its former glory, then, we recommend that the city lift its prohibition on skateboarding in the plaza."
@@ -2202,8 +2202,8 @@ The president does not provide any information about the subscribers of Cheese o
 Many other better ways might be available to improve profits of our stores. (necessity of the solution) ★★★
 The president fails to consider the negative effects of discontinuing the inventory of imported cheeses. (adv:disadv) ★★★★
 The president does not provide any information about the actual profit of domestic and imported cheese respectively, thus we cannot evaluate the president’s conclusion. 
-##107
-##108
+## 107
+## 108
 
 56. 67
 57. 68
